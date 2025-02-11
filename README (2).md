@@ -1,6 +1,6 @@
 **32 Bit MIPS32 PROCESSOR**
 Skills: Verilog HDL, Computer Architecture
--	I am Kali Chopra pursuing Electronics Engineering at IIT (BHU), Varanasi.
+-	I am Rupavath Ankitha pursuing Electronics Engineering at IIT (BHU), Varanasi.
 -	I have made a 16-bit CPU using Verilog HDL.
 -	The verilog files along with testbench are attached in this repository.
 -	The block diagram of design is as follows:
